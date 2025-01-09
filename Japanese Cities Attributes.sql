@@ -13,6 +13,6 @@ The CITY table is described as follows:
 +-------------+--------------+
 
 SELECT *
-FROM CITY c
+FROM CITY
 WHERE COUNTRYCODE = 'JPN';
 
